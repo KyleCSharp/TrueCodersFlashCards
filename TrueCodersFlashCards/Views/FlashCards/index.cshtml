@@ -1,0 +1,21 @@
+﻿@model IEnumerable<FlashCards>
+<h1>Flash Cards</h1>
+<table class="table">
+    <tr>
+        <th>FlashCardID</th>
+        <th>FlashCardFront</th>
+        <th>FlashCardBack</th>
+       
+    </tr>
+
+    @foreach (var flashCards in Model)
+    {
+        <tr>
+            <td>@flashCards.FlashCardID</td>
+            <td>@flashCards.FlashCardFront</td>
+            <td>@flashCards.FlashCardBack</td>
+            
+        </tr>
+
+    }
+</table>

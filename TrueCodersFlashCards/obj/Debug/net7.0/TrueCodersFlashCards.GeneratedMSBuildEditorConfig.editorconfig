@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\repos\TrueCodersFlashCards\TrueCodersFlashCards
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/repos/TrueCodersFlashCards/TrueCodersFlashCards/Views/FlashCards/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxhc2hDYXJkc1xpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/repos/TrueCodersFlashCards/TrueCodersFlashCards/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
